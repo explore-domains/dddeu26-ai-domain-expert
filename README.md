@@ -19,4 +19,3 @@ We will close with a joint reflection: When is AI a useful accelerator for Big P
 ## Material
 
 - [Prompt](./prompt.md): Copy & Paste this prompt to prepare your LLM to act as expert in Big Picture EventStorming.
-- [Use Case](./usecase.md):  Let about the use from Delicious Delivery Dash (a food delivery company)
